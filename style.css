@@ -1,0 +1,25 @@
+.bgbody {
+    background-color: #001d3d;
+}
+
+.fontDark {
+    color: #001d3d;
+}
+
+.displayResult {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .5);
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.displaymarks {
+   background-color: white;
+   height: 20vh;
+   width: 20vw;
+}
